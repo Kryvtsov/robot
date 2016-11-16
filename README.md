@@ -1,6 +1,4 @@
 
-#hello-world
+#My training course
 
-first try
-
-Hello every one! This is my first try at the github working. And I like it :)
+Hello every one! This is a danger robot with laser eyes :)
